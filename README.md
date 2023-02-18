@@ -35,7 +35,7 @@ That's why I like to make things that make a difference.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/srivastavshubham" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Shubham Srivastava" height="30" width="40" /></a>
 &nbsp;
-<a href="https://about.me/shubham_srivastava" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="shubham" height="30" width="40" /></a>
+<a href="https://srivastavshubham.github.io/me/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="shubham" height="30" width="40" /></a>
 &nbsp;
 
 ---
