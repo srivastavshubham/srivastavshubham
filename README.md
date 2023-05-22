@@ -29,7 +29,7 @@ That's why I like to make things that make a difference.
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
 - 👯 Join my community if you're a tech enthusiast
 - 📬 How to reach me: [shubhamda111@gmail.com](mailto:shubhamda111@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1HCrarB29yT6CaAaOfjIWwTyRUZZRKIA2/view?usp=drivesdk).
+- 📝 [Resume](https://drive.google.com/file/d/1HSSHxGNNdeFjsPovgxDv-_3BYptpch6y/view?usp=drivesdk).
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
